@@ -1,8 +1,11 @@
 # Nihongo Agent 🇯🇵🧠
 
-A terminal-based AI-powered Japanese language learning agent — 100% local, offline-first, extensible, and beginner-friendly.
+Japanese Language Learning Agent – Personal Project (Python, LLMs, CLI), 100% local, offline-first, extensible, and beginner-friendly.
+- Built a terminal-based Japanese language tutor using local LLaMA-based models with Ollama
+- Integrated dictionary lookup (JMdict), translation via local LLM inference, and Kana quiz games
+- Designed modular Python code handling grammar references, cultural context, and CLI interaction
+- Applied prompt engineering, caching strategies, and model streaming output handling
 
-I made this for personal use. I want to create a learning portal for me where i go full screen, silent notifactions and use my pad and paper with the model to learn japanese without distraction. To incremently inrease my japanse proficinecy. Which will be made as I go back into the code to update and review with new learning methods and resources. Leaping into project ownership.
 
 In addition to personal use, I aim to incorporate scientific learning methods behind updates to test them out on myself.
 

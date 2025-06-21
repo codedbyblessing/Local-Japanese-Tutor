@@ -34,7 +34,7 @@ In addition to personal use, I aim to incorporate scientific learning methods be
 ```bash
 python agent.py
 or on some terminals like mine, python3 works instead
-
+```
 ## 🌐 3. **Future improvements**
 
 | Step | Goal                                | Tool Suggestions                   |

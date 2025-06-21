@@ -1,0 +1,22 @@
+{
+  "日": {
+    "meaning": "sun/day",
+    "strokes": [
+      "1. Draw the top horizontal line",
+      "2. Draw the left vertical line downward",
+      "3. Close the box with a horizontal line",
+      "4. Draw the inner horizontal line"
+    ],
+    "stroke_count": 4
+  },
+  "木": {
+    "meaning": "tree",
+    "strokes": [
+      "1. Vertical line down the middle",
+      "2. Left diagonal line",
+      "3. Right diagonal line",
+      "4. Bottom horizontal line"
+    ],
+    "stroke_count": 4
+  }
+}

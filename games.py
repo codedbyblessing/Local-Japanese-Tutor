@@ -11,7 +11,7 @@ def kana_game():
 
     print("Kana Typing Game (Hiragana) - Type the romaji for the kana shown")
     score = 0
-    for _ in range(5):
+    for _ in range(10):
         item = random.choice(kana_list)
         kana = item["kana"]
         romaji = item["romaji"]
@@ -21,4 +21,4 @@ def kana_game():
             score += 1
         else:
             print(f"Wrong! The answer is {romaji}")
-    print(f"Game over! Your score: {score}/5")
+    print(f"Game over! Your score: {score}/10")

@@ -66,7 +66,7 @@ def main():
         else:
             print("❓ Unknown command. Type 'help' to see the menu.")
 
-        # Ask user if they want to continue
+       
         again = input("\n💡 Would you like help with anything else? (yes/no): ").strip().lower()
         if again not in ["yes", "y"]:
             print("👋 Alright, see you next time!")

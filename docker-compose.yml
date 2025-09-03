@@ -1,0 +1,19 @@
+version: '3.8'
+services:
+  voicevox:
+    image: voicevox/voicevox_engine:cpu-ubuntu20.04-latest
+    ports:
+      - "50021:50021"
+    restart: unless-stopped
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile.app
+    environment:
+      - VOICEVOX_HOST=http://voicevox:50021
+    ports:
+      - "7860:7860"
+    depends_on:
+      - voicevox
+    volumes:
+      - .:/app

@@ -38,5 +38,5 @@ def parse_jmdict(xml_path, json_path="local_dict.json"):
     print(f"Converted {len(dictionary)} entries to {json_path}")
 
 if __name__ == "__main__":
-    xml_path = "JMdict_e"  # Adjust if your filename differs
+    xml_path = "JMdict_e" 
     parse_jmdict(xml_path)

@@ -1,0 +1,9 @@
+gradio>=3.40
+fugashi[unidic-lite]>=1.1
+pykakasi>=0.96
+gTTS>=2.3
+requests>=2.28
+sqlalchemy>=2.0
+pydub>=0.25
+whisper>=1.0
+torch>=2.0

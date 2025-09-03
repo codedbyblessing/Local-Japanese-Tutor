@@ -18,5 +18,61 @@
       "4. Bottom horizontal line"
     ],
     "stroke_count": 4
+  },
+  "人": {
+    "meaning": "person",
+    "strokes": [
+      "1. Left diagonal stroke",
+      "2. Right diagonal stroke"
+    ],
+    "stroke_count": 2
+  },
+  "山": {
+    "meaning": "mountain",
+    "strokes": [
+      "1. Vertical line in the center",
+      "2. Left vertical line",
+      "3. Right vertical line"
+    ],
+    "stroke_count": 3
+  },
+  "川": {
+    "meaning": "river",
+    "strokes": [
+      "1. Left vertical line",
+      "2. Middle vertical line",
+      "3. Right vertical line"
+    ],
+    "stroke_count": 3
+  },
+  "水": {
+    "meaning": "water",
+    "strokes": [
+      "1. Left diagonal stroke",
+      "2. Vertical line downward",
+      "3. Right diagonal stroke",
+      "4. Small stroke to the lower right"
+    ],
+    "stroke_count": 4
+  },
+  "火": {
+    "meaning": "fire",
+    "strokes": [
+      "1. Left diagonal stroke",
+      "2. Right diagonal stroke",
+      "3. Small left stroke",
+      "4. Small right stroke"
+    ],
+    "stroke_count": 4
+  },
+  "月": {
+    "meaning": "moon/month",
+    "strokes": [
+      "1. Left vertical line",
+      "2. Top horizontal line, curving down right",
+      "3. Middle horizontal line inside",
+      "4. Bottom horizontal line inside"
+    ],
+    "stroke_count": 4
   }
 }

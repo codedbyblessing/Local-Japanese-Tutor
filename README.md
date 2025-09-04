@@ -56,4 +56,8 @@ MIT License
 Powered by Ollama
 Stories from Aozora Bunko
 Stroke data adapted from KanjiVG
+<<<<<<< HEAD
 https://www.edrdg.org/jmdict/j_jmdict.html
+=======
+https://www.edrdg.org/jmdict/j_jmdict.html
+>>>>>>> a25720f2b2cc45f69c5fe7496b3afd3a5da61713

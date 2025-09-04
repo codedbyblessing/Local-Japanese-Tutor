@@ -1,4 +1,4 @@
-# Nihongo Agent 🇯🇵🧠
+# 日本語 Agent 🇯🇵🧠 
 
 Japanese Language Learning Agent – Personal Project (Python, LLMs, CLI), 100% local, offline-first, extensible, and beginner-friendly.
 - Built a terminal-based Japanese language tutor using local LLaMA-based models with Ollama
@@ -7,17 +7,17 @@ Japanese Language Learning Agent – Personal Project (Python, LLMs, CLI), 100% 
 - Applied prompt engineering, caching strategies, and model streaming output handling
 
 
-In addition to personal use, I aim to incorporate scientific learning methods behind updates to test them out on myself.
 
 
-## 🌟 Features
-- 🎴 Hiragana & Katakana typing games
-- 🈳 Vocabulary flashcards (JLPT levels)
-- 📖 Traditional Japanese short stories
-- 🖌️ Kanji stroke order explanations
-- 🧠 Grammar & culture review (markdown powered)
-- 🧩 Interactive trivia games (Tokyo culture, tech history)
-- 💬 LLM chat support using Ollama (LLaMA3)
+
+## ──★ ˙ ̟ Features
+- ✩ Hiragana & Katakana typing games
+- ✩ Vocabulary flashcards (JLPT levels)
+- ✩ Traditional Japanese short stories
+- ✩ Kanji stroke order explanations
+- ✩ Grammar & culture review (markdown powered)
+- ✩ Interactive trivia games (Tokyo culture, tech history)
+- ✩ LLM chat support using Ollama (LLaMA3)
 
 ## Commands
 
@@ -28,7 +28,7 @@ In addition to personal use, I aim to incorporate scientific learning methods be
 - `help` — Show commands  
 - `exit` — Quit  
 
-## 🚀 Getting Started
+## ૮ ˶ᵔ ᵕ ᵔ˶ ა Getting Started
 1. Install Python 3.8+
 2. [Install Ollama](https://ollama.com)
 3. Clone this repo
@@ -38,7 +38,7 @@ In addition to personal use, I aim to incorporate scientific learning methods be
 python agent.py
 or on some terminals like mine, python3 works instead
 ```
-## 🌐 3. **Future improvements**
+## ദ്ദി(ᵔᗜᵔ) 3. **Future improvements**
 
 | Step | Goal                                | Tool Suggestions                   |
 |------|-------------------------------------|------------------------------------|
@@ -57,3 +57,4 @@ MIT License
 Powered by Ollama
 Stories from Aozora Bunko
 Stroke data adapted from KanjiVG
+https://www.edrdg.org/jmdict/j_jmdict.html

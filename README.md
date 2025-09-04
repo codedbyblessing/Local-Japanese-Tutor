@@ -42,6 +42,8 @@ or on some terminals like mine, python3 works instead
 ## ദ്ദി(ᵔᗜᵔ) 3. **Future improvements**
 
 ⚠︎ Testing and improving error in Render + TTS and flashcards ⚠︎
+<img width="3410" height="1820" alt="image" src="https://github.com/user-attachments/assets/513be4c0-289a-4f02-98e5-2227b3f5372b" />
+
 
 | Step | Goal                                | Tool Suggestions                   |
 |------|-------------------------------------|------------------------------------|

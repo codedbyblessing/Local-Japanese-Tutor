@@ -10,7 +10,7 @@ Japanese Language Learning Agent – Personal Project (Python, LLMs, CLI), 100% 
 
 
 
-## ──★ ˙ ̟ Features
+## (˶• ᴗ •˵) Features
 - ✩ Hiragana & Katakana typing games
 - ✩ Vocabulary flashcards (JLPT levels)
 - ✩ Traditional Japanese short stories
@@ -19,14 +19,14 @@ Japanese Language Learning Agent – Personal Project (Python, LLMs, CLI), 100% 
 - ✩ Interactive trivia games (Tokyo culture, tech history)
 - ✩ LLM chat support using Ollama (LLaMA3)
 
-## Commands
+## (｡•̀ᴗ-)✧ Commands
 
-- `lookup` — Lookup words in local dictionary  
-- `translate` — Translate Japanese text via local Ollama LLM  
-- `grammar` — Show grammar points 
-- `kana-game` — Play kana typing quiz  
-- `help` — Show commands  
-- `exit` — Quit  
+- `lookup` ✧ Lookup words in local dictionary  
+- `translate` ✧ Translate Japanese text via local Ollama LLM  
+- `grammar` ✧ Show grammar points 
+- `kana-game` ✧ Play kana typing quiz  
+- `help` ✧ Show commands  
+- `exit` ✧ Quit  
 
 ## ૮ ˶ᵔ ᵕ ᵔ˶ ა Getting Started
 1. Install Python 3.8+

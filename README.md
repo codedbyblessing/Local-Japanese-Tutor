@@ -31,8 +31,9 @@ Japanese Language Learning Agent – Personal Project (Python, LLMs, CLI), 100% 
 ## ૮ ˶ᵔ ᵕ ᵔ˶ ა Getting Started
 1. Install Python 3.8+
 2. [Install Ollama](https://ollama.com)
-3. Clone this repo
-4. Run the agent:
+3. Install -> fugashi[unidic-lite] , pykakasi, gTTS and gradio
+4. Clone this repo
+5. Run the agent:
 
 ```bash
 python agent.py

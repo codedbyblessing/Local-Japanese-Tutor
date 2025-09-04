@@ -62,6 +62,7 @@ Open to suggestions too ^_^
 
 ## License
 
+Copyright [2025] [Blessing Yeboah]
 MIT License  
 Powered by Ollama
 Stories from Aozora Bunko

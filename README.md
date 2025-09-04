@@ -44,14 +44,17 @@ or on some terminals like mine, python3 works instead
 ⚠︎ Testing and improving error in Render + TTS and flashcards ⚠︎
 <img width="3410" height="1820" alt="image" src="https://github.com/user-attachments/assets/513be4c0-289a-4f02-98e5-2227b3f5372b" />
 
-<div allign="center">
+<div align="center">
+
 | Step | Goal                                | Tool Suggestions                   |
 |------|-------------------------------------|------------------------------------|
 | 1    | Continue research & testing         | Google                             |
 | 2    | Connect Ollama to backend           | Use local API (already done)       |
 | 3    | Host static frontend                | GitHub Pages / Vercel              |
 | 4    | Bundle as a PWA for offline use     | Service Workers + Webpack          |
+
 </div>
+
 
 Open to suggestions too ^_^
 ---

@@ -3,7 +3,7 @@ import html
 import re
 
 try:
-    from fugashi import Tagger
+    from fugashi import Tagger # type: ignore
 except Exception as e:
     raise RuntimeError("Please install fugashi[unidic-lite]: pip install 'fugashi[unidic-lite]'") from e
 

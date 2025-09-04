@@ -41,7 +41,7 @@ or on some terminals like mine, python3 works instead
 ```
 ## ദ്ദി(ᵔᗜᵔ) 3. **Future improvements**
 
-⚠︎ Testing and improving error in Redner + TTS and flashcards ⚠︎
+⚠︎ Testing and improving error in Render + TTS and flashcards ⚠︎
 
 | Step | Goal                                | Tool Suggestions                   |
 |------|-------------------------------------|------------------------------------|
